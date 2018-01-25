@@ -17,7 +17,7 @@ public class RestController {
 		User user = new User();
 		user.setId(id);
 		user.setName("John");
-		user.setAge(45);
+		user.setAge(55);
 		return user;
 	}
 }
